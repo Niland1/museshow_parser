@@ -1,4 +1,3 @@
-# museshow_parser
 # Museshow Concerts Parser
 
 Полноценный парсер для сбора информации о **всех** концертах с сайта [museshow.ru/concerts](https://museshow.ru/concerts/)
@@ -57,4 +56,3 @@ poetry run python concerts_parser.py
 ## Логирование
 
 Все операции логируются в файл `parser.log` с подробной информацией о каждом этапе парсинга.
-
